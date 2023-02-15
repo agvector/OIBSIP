@@ -1,0 +1,761 @@
+Region	 Date	 Frequency	 Estimated Unemployment Rate (%)	 Estimated Employed	 Estimated Labour Participation Rate (%)	Area
+Andhra Pradesh	 31-05-2019	 Monthly	3.65	11999139	43.24	Rural
+Andhra Pradesh	 30-06-2019	 Monthly	3.05	11755881	42.05	Rural
+Andhra Pradesh	 31-07-2019	 Monthly	3.75	12086707	43.5	Rural
+Andhra Pradesh	 31-08-2019	 Monthly	3.32	12285693	43.97	Rural
+Andhra Pradesh	 30-09-2019	 Monthly	5.17	12256762	44.68	Rural
+Andhra Pradesh	 31-10-2019	 Monthly	3.52	12017412	43.01	Rural
+Andhra Pradesh	 30-11-2019	 Monthly	4.12	11397681	41	Rural
+Andhra Pradesh	 31-12-2019	 Monthly	4.38	12528395	45.14	Rural
+Andhra Pradesh	 31-01-2020	 Monthly	4.84	12016676	43.46	Rural
+Andhra Pradesh	 29-02-2020	 Monthly	5.91	11723617	42.83	Rural
+Andhra Pradesh	 31-03-2020	 Monthly	4.06	11359660	40.66	Rural
+Andhra Pradesh	 30-04-2020	 Monthly	16.29	8792827	36.03	Rural
+Andhra Pradesh	 31-05-2020	 Monthly	14.46	9526902	38.16	Rural
+Andhra Pradesh	 30-06-2020	 Monthly	0.85	15572975	53.76	Rural
+Assam	 31-05-2019	 Monthly	4.29	11749334	57.39	Rural
+Assam	 30-06-2019	 Monthly	5.08	8923222	43.87	Rural
+Assam	 31-07-2019	 Monthly	4.26	9911534	48.21	Rural
+Assam	 31-08-2019	 Monthly	5.79	9292039	45.83	Rural
+Assam	 30-09-2019	 Monthly	4.46	11468349	55.67	Rural
+Assam	 31-10-2019	 Monthly	4.65	8395906	40.76	Rural
+Assam	 30-11-2019	 Monthly	4.66	9625362	46.64	Rural
+Assam	 31-01-2020	 Monthly	4.29	11420996	54.9	Rural
+Assam	 29-02-2020	 Monthly	3.26	8462814	40.17	Rural
+Assam	 31-03-2020	 Monthly	3.77	9878742	47.05	Rural
+Assam	 31-05-2020	 Monthly	9.38	9926176	50	Rural
+Assam	 30-06-2020	 Monthly	0	7544937	34.38	Rural
+Bihar	 31-05-2019	 Monthly	9.27	24322330	39.75	Rural
+Bihar	 30-06-2019	 Monthly	10.2	24097712	39.71	Rural
+Bihar	 31-07-2019	 Monthly	13.44	23248875	39.66	Rural
+Bihar	 31-08-2019	 Monthly	11	22260203	36.85	Rural
+Bihar	 30-09-2019	 Monthly	8.87	23905700	38.57	Rural
+Bihar	 31-10-2019	 Monthly	12.47	24053140	40.31	Rural
+Bihar	 30-11-2019	 Monthly	12.4	22445989	37.51	Rural
+Bihar	 31-12-2019	 Monthly	10.16	22914530	37.25	Rural
+Bihar	 31-01-2020	 Monthly	9.13	23409006	37.54	Rural
+Bihar	 29-02-2020	 Monthly	9.61	23168192	37.28	Rural
+Bihar	 31-03-2020	 Monthly	15.39	22667882	38.88	Rural
+Bihar	 30-04-2020	 Monthly	45.09	14645275	38.63	Rural
+Bihar	 31-05-2020	 Monthly	47.26	14050319	38.5	Rural
+Bihar	 30-06-2020	 Monthly	20.49	20622566	37.4	Rural
+Chhattisgarh	 31-05-2019	 Monthly	9.82	6259019	42.89	Rural
+Chhattisgarh	 30-06-2019	 Monthly	6.76	6608626	43.71	Rural
+Chhattisgarh	 31-07-2019	 Monthly	4.54	6753622	43.53	Rural
+Chhattisgarh	 31-08-2019	 Monthly	4.64	6607694	42.55	Rural
+Chhattisgarh	 30-09-2019	 Monthly	8.33	6490776	43.38	Rural
+Chhattisgarh	 31-10-2019	 Monthly	6.96	7043840	46.28	Rural
+Chhattisgarh	 30-11-2019	 Monthly	2.77	6942931	43.56	Rural
+Chhattisgarh	 31-12-2019	 Monthly	6.11	6569385	42.59	Rural
+Chhattisgarh	 31-01-2020	 Monthly	9.89	6236201	42.03	Rural
+Chhattisgarh	 29-02-2020	 Monthly	7.89	6847173	45.05	Rural
+Chhattisgarh	 31-03-2020	 Monthly	7.31	6894808	44.98	Rural
+Chhattisgarh	 30-04-2020	 Monthly	0	6534321	39.43	Rural
+Chhattisgarh	 31-05-2020	 Monthly	7.64	5454091	35.56	Rural
+Chhattisgarh	 30-06-2020	 Monthly	10.14	5781095	38.66	Rural
+Delhi	 31-05-2019	 Monthly	12.56	169487	42.33	Rural
+Delhi	 30-06-2019	 Monthly	9.33	149076	35.74	Rural
+Delhi	 31-07-2019	 Monthly	11.07	166605	40.53	Rural
+Delhi	 31-08-2019	 Monthly	17.18	135407	35.21	Rural
+Delhi	 30-09-2019	 Monthly	12.5	166056	40.68	Rural
+Delhi	 31-10-2019	 Monthly	15.84	149511	37.9	Rural
+Delhi	 30-11-2019	 Monthly	11.11	178768	42.71	Rural
+Delhi	 31-12-2019	 Monthly	16.97	145671	37.08	Rural
+Delhi	 31-01-2020	 Monthly	13.48	157791	38.36	Rural
+Delhi	 29-02-2020	 Monthly	13.81	147500	35.84	Rural
+Delhi	 31-03-2020	 Monthly	15.18	152413	37.45	Rural
+Delhi	 30-04-2020	 Monthly	20.69	115487	30.21	Rural
+Delhi	 31-05-2020	 Monthly	22.76	129610	34.65	Rural
+Delhi	 30-06-2020	 Monthly	21.14	112108	29.22	Rural
+Goa	 31-05-2019	 Monthly	2.91	179340	39.16	Rural
+Goa	 30-06-2019	 Monthly	5.45	170471	38.19	Rural
+Goa	 31-07-2019	 Monthly	10.98	167437	39.81	Rural
+Goa	 31-08-2019	 Monthly	1.98	183603	39.61	Rural
+Goa	 30-09-2019	 Monthly	3.61	163215	35.78	Rural
+Goa	 31-10-2019	 Monthly	7.21	177440	40.36	Rural
+Goa	 30-11-2019	 Monthly	23.71	159489	44.09	Rural
+Goa	 31-12-2019	 Monthly	3.54	177155	38.7	Rural
+Goa	 31-01-2020	 Monthly	5.38	158936	35.36	Rural
+Goa	 29-02-2020	 Monthly	0	171672	36.11	Rural
+Goa	 30-04-2020	 Monthly	15.91	181657	45.36	Rural
+Goa	 31-05-2020	 Monthly	20	128538	33.71	Rural
+Gujarat	 31-05-2019	 Monthly	2.88	13954728	52.03	Rural
+Gujarat	 30-06-2019	 Monthly	4.77	13199281	50.12	Rural
+Gujarat	 31-07-2019	 Monthly	4.58	14327083	54.21	Rural
+Gujarat	 31-08-2019	 Monthly	3.7	13507342	50.57	Rural
+Gujarat	 30-09-2019	 Monthly	6.29	13280783	51.01	Rural
+Gujarat	 31-10-2019	 Monthly	4.91	13828512	52.27	Rural
+Gujarat	 30-11-2019	 Monthly	4.68	14487815	54.55	Rural
+Gujarat	 31-12-2019	 Monthly	3.46	13877825	51.51	Rural
+Gujarat	 31-01-2020	 Monthly	5.35	14301844	54.07	Rural
+Gujarat	 29-02-2020	 Monthly	6.64	13973042	53.48	Rural
+Gujarat	 31-03-2020	 Monthly	7.59	13483615	52.06	Rural
+Gujarat	 30-04-2020	 Monthly	12	8587594	34.77	Rural
+Gujarat	 31-05-2020	 Monthly	14.58	11121124	46.31	Rural
+Gujarat	 30-06-2020	 Monthly	1.41	13243922	47.72	Rural
+Haryana	 31-05-2019	 Monthly	14.54	5249186	45.12	Rural
+Haryana	 30-06-2019	 Monthly	23.08	4745178	45.23	Rural
+Haryana	 31-07-2019	 Monthly	16.22	4826560	42.17	Rural
+Haryana	 31-08-2019	 Monthly	30.94	4558306	48.23	Rural
+Haryana	 30-09-2019	 Monthly	16.36	5127956	44.72	Rural
+Haryana	 31-10-2019	 Monthly	24.17	4798833	46.07	Rural
+Haryana	 30-11-2019	 Monthly	16.59	4875763	42.48	Rural
+Haryana	 31-12-2019	 Monthly	29.56	4603484	47.4	Rural
+Haryana	 31-01-2020	 Monthly	16.21	5062293	43.74	Rural
+Haryana	 29-02-2020	 Monthly	27.19	4570108	45.37	Rural
+Haryana	 31-03-2020	 Monthly	23.92	4366148	41.4	Rural
+Haryana	 30-04-2020	 Monthly	41.61	4041050	49.85	Rural
+Haryana	 31-05-2020	 Monthly	34.22	3914193	42.78	Rural
+Haryana	 30-06-2020	 Monthly	35.57	4357835	48.53	Rural
+Himachal Pradesh	 31-05-2019	 Monthly	13.68	2045760	44.23	Rural
+Himachal Pradesh	 30-06-2019	 Monthly	11.43	1957081	41.18	Rural
+Himachal Pradesh	 31-07-2019	 Monthly	20.59	1916824	44.91	Rural
+Himachal Pradesh	 31-08-2019	 Monthly	18.56	1969248	44.91	Rural
+Himachal Pradesh	 30-09-2019	 Monthly	15.98	2039804	45.02	Rural
+Himachal Pradesh	 31-10-2019	 Monthly	15.81	1946957	42.81	Rural
+Himachal Pradesh	 30-11-2019	 Monthly	22.86	2024409	48.5	Rural
+Himachal Pradesh	 31-12-2019	 Monthly	19.46	1922821	44.05	Rural
+Himachal Pradesh	 31-01-2020	 Monthly	16.67	2041035	45.11	Rural
+Himachal Pradesh	 29-02-2020	 Monthly	15.42	1952464	42.45	Rural
+Himachal Pradesh	 31-03-2020	 Monthly	17.71	1800426	40.17	Rural
+Himachal Pradesh	 30-04-2020	 Monthly	2.13	984171	18.43	Rural
+Himachal Pradesh	 31-05-2020	 Monthly	25.64	1732050	42.62	Rural
+Himachal Pradesh	 30-06-2020	 Monthly	1.12	2230075	41.2	Rural
+Jammu & Kashmir	 31-05-2019	 Monthly	12.78	2495186	40.57	Rural
+Jammu & Kashmir	 30-06-2019	 Monthly	12.09	2423742	39.02	Rural
+Jammu & Kashmir	 31-07-2019	 Monthly	13.67	2549316	41.71	Rural
+Jammu & Kashmir	 31-08-2019	 Monthly	11.32	2778624	44.17	Rural
+Jammu & Kashmir	 31-10-2019	 Monthly	19.27	2477621	43.08	Rural
+Jammu & Kashmir	 30-11-2019	 Monthly	14.73	2415724	39.69	Rural
+Jammu & Kashmir	 31-01-2020	 Monthly	22.19	2373488	42.56	Rural
+Jammu & Kashmir	 29-02-2020	 Monthly	21.23	2163397	38.25	Rural
+Jammu & Kashmir	 31-03-2020	 Monthly	16	2361004	39.06	Rural
+Jammu & Kashmir	 31-05-2020	 Monthly	2.22	2716966	38.46	Rural
+Jammu & Kashmir	 30-06-2020	 Monthly	18.97	2049617	34.94	Rural
+Jharkhand	 31-05-2019	 Monthly	7.11	7035766	39.04	Rural
+Jharkhand	 30-06-2019	 Monthly	8.46	7319782	41.12	Rural
+Jharkhand	 31-07-2019	 Monthly	9.98	6958404	39.66	Rural
+Jharkhand	 31-08-2019	 Monthly	12.06	7015356	40.83	Rural
+Jharkhand	 30-09-2019	 Monthly	7.12	7500122	41.24	Rural
+Jharkhand	 31-10-2019	 Monthly	6.57	7761243	42.33	Rural
+Jharkhand	 30-11-2019	 Monthly	8.07	7279628	40.26	Rural
+Jharkhand	 31-12-2019	 Monthly	15.15	6873437	41.09	Rural
+Jharkhand	 31-01-2020	 Monthly	6.16	7868736	42.43	Rural
+Jharkhand	 29-02-2020	 Monthly	9.06	7932402	44.05	Rural
+Jharkhand	 31-03-2020	 Monthly	5.01	7157454	37.96	Rural
+Jharkhand	 30-04-2020	 Monthly	41.72	4280434	36.92	Rural
+Jharkhand	 31-05-2020	 Monthly	55.1	3315038	37.03	Rural
+Jharkhand	 30-06-2020	 Monthly	21.53	6375114	40.65	Rural
+Karnataka	 31-05-2019	 Monthly	5.46	13911440	46.36	Rural
+Karnataka	 30-06-2019	 Monthly	5.98	12888490	43.12	Rural
+Karnataka	 31-07-2019	 Monthly	0.52	12169808	38.42	Rural
+Karnataka	 31-08-2019	 Monthly	0.37	12686470	39.93	Rural
+Karnataka	 30-09-2019	 Monthly	3.2	13741892	44.45	Rural
+Karnataka	 31-10-2019	 Monthly	7.13	12803527	43.1	Rural
+Karnataka	 30-11-2019	 Monthly	1.19	11537217	36.45	Rural
+Karnataka	 31-12-2019	 Monthly	0.41	12756132	39.92	Rural
+Karnataka	 31-01-2020	 Monthly	2.57	13938874	44.52	Rural
+Karnataka	 29-02-2020	 Monthly	4.11	12753657	41.33	Rural
+Karnataka	 31-03-2020	 Monthly	2.39	12853818	40.85	Rural
+Karnataka	 30-04-2020	 Monthly	33.17	9330400	43.25	Rural
+Karnataka	 31-05-2020	 Monthly	23.72	10626328	43.09	Rural
+Karnataka	 30-06-2020	 Monthly	10.92	15396213	53.37	Rural
+Kerala	 31-05-2019	 Monthly	6.63	5184355	38.07	Rural
+Kerala	 30-06-2019	 Monthly	9	5605627	42.19	Rural
+Kerala	 31-07-2019	 Monthly	4.95	4855393	34.96	Rural
+Kerala	 31-08-2019	 Monthly	10.32	5233449	39.9	Rural
+Kerala	 30-09-2019	 Monthly	5.35	5400499	38.97	Rural
+Kerala	 31-10-2019	 Monthly	9.14	5328825	40.02	Rural
+Kerala	 30-11-2019	 Monthly	5	4557906	32.71	Rural
+Kerala	 31-12-2019	 Monthly	10.77	5065804	38.67	Rural
+Kerala	 31-01-2020	 Monthly	4.11	5307026	37.66	Rural
+Kerala	 29-02-2020	 Monthly	8.91	5203579	38.84	Rural
+Kerala	 31-03-2020	 Monthly	8.85	4141953	30.87	Rural
+Kerala	 30-04-2020	 Monthly	10.71	1754170	13.33	Rural
+Kerala	 31-05-2020	 Monthly	23.38	3799919	33.62	Rural
+Kerala	 30-06-2020	 Monthly	27.66	3952088	37.01	Rural
+Madhya Pradesh	 31-05-2019	 Monthly	3.63	15349838	37.97	Rural
+Madhya Pradesh	 30-06-2019	 Monthly	4.25	16294794	40.48	Rural
+Madhya Pradesh	 31-07-2019	 Monthly	3.92	16274707	40.2	Rural
+Madhya Pradesh	 31-08-2019	 Monthly	4.94	16559137	41.25	Rural
+Madhya Pradesh	 30-09-2019	 Monthly	3.08	16159315	39.4	Rural
+Madhya Pradesh	 31-10-2019	 Monthly	2.98	17060638	41.46	Rural
+Madhya Pradesh	 30-11-2019	 Monthly	2.72	16306428	39.44	Rural
+Madhya Pradesh	 31-12-2019	 Monthly	2.94	16854647	40.77	Rural
+Madhya Pradesh	 31-01-2020	 Monthly	3.66	16183702	39.35	Rural
+Madhya Pradesh	 29-02-2020	 Monthly	4.42	16178044	39.57	Rural
+Madhya Pradesh	 31-03-2020	 Monthly	1.19	16480441	38.9	Rural
+Madhya Pradesh	 30-04-2020	 Monthly	12.5	14238959	37.88	Rural
+Madhya Pradesh	 31-05-2020	 Monthly	22.46	13099601	39.24	Rural
+Madhya Pradesh	 30-06-2020	 Monthly	6.46	16748971	41.5	Rural
+Maharashtra	 31-05-2019	 Monthly	3.67	23896858	47.11	Rural
+Maharashtra	 30-06-2019	 Monthly	4.34	23056511	45.69	Rural
+Maharashtra	 31-07-2019	 Monthly	3.66	24843750	48.8	Rural
+Maharashtra	 31-08-2019	 Monthly	3.76	26835389	52.67	Rural
+Maharashtra	 30-09-2019	 Monthly	4.4	25219281	49.74	Rural
+Maharashtra	 31-10-2019	 Monthly	3.81	24330249	47.61	Rural
+Maharashtra	 30-11-2019	 Monthly	3.68	24881383	48.53	Rural
+Maharashtra	 31-12-2019	 Monthly	3.03	26357625	50.98	Rural
+Maharashtra	 31-01-2020	 Monthly	3.8	25881398	50.36	Rural
+Maharashtra	 29-02-2020	 Monthly	4.24	25293535	49.36	Rural
+Maharashtra	 31-03-2020	 Monthly	5.38	23130976	45.6	Rural
+Maharashtra	 30-04-2020	 Monthly	25.28	15014802	37.42	Rural
+Maharashtra	 31-05-2020	 Monthly	16.89	18423447	41.21	Rural
+Maharashtra	 30-06-2020	 Monthly	9.4	23601016	48.34	Rural
+Meghalaya	 31-05-2019	 Monthly	3.16	1119011	66.13	Rural
+Meghalaya	 30-06-2019	 Monthly	4.23	1024797	61.09	Rural
+Meghalaya	 31-07-2019	 Monthly	1.03	1158511	66.67	Rural
+Meghalaya	 31-08-2019	 Monthly	0.52	1065725	60.86	Rural
+Meghalaya	 30-09-2019	 Monthly	0.24	1162159	66.02	Rural
+Meghalaya	 31-10-2019	 Monthly	3.7	1080609	63.44	Rural
+Meghalaya	 30-11-2019	 Monthly	1.5	1205703	69.03	Rural
+Meghalaya	 31-12-2019	 Monthly	1.8	1102997	63.18	Rural
+Meghalaya	 31-01-2020	 Monthly	0.97	1229406	69.66	Rural
+Meghalaya	 29-02-2020	 Monthly	2.76	1112864	64.06	Rural
+Meghalaya	 31-03-2020	 Monthly	1.28	1192616	67.46	Rural
+Meghalaya	 30-04-2020	 Monthly	8.38	803118	48.83	Rural
+Meghalaya	 31-05-2020	 Monthly	3.73	992148	57.26	Rural
+Meghalaya	 30-06-2020	 Monthly	1.35	1150200	64.63	Rural
+Odisha	 31-05-2019	 Monthly	4.17	11155753	40.47	Rural
+Odisha	 30-06-2019	 Monthly	4.71	10965154	39.94	Rural
+Odisha	 31-07-2019	 Monthly	3.31	12009883	43.05	Rural
+Odisha	 31-08-2019	 Monthly	3.68	11727659	42.13	Rural
+Odisha	 30-09-2019	 Monthly	4.31	11167715	40.32	Rural
+Odisha	 31-10-2019	 Monthly	4.28	11621534	41.88	Rural
+Odisha	 30-11-2019	 Monthly	4.72	12192623	44.06	Rural
+Odisha	 31-12-2019	 Monthly	4.67	11345069	40.91	Rural
+Odisha	 31-01-2020	 Monthly	1.81	11182128	39.09	Rural
+Odisha	 29-02-2020	 Monthly	3.31	11842655	41.98	Rural
+Odisha	 31-03-2020	 Monthly	15.09	9814156	39.55	Rural
+Odisha	 30-04-2020	 Monthly	24.48	5562449	25.16	Rural
+Odisha	 31-05-2020	 Monthly	9.45	9683719	36.48	Rural
+Odisha	 30-06-2020	 Monthly	4.59	10187145	36.36	Rural
+Puducherry	 31-05-2019	 Monthly	0	172474	43.08	Rural
+Puducherry	 30-06-2019	 Monthly	0	184527	45.95	Rural
+Puducherry	 31-07-2019	 Monthly	0	139227	34.56	Rural
+Puducherry	 31-08-2019	 Monthly	4.85	183930	47.83	Rural
+Puducherry	 30-09-2019	 Monthly	0	175718	43.34	Rural
+Puducherry	 31-10-2019	 Monthly	1.18	180283	44.85	Rural
+Puducherry	 30-11-2019	 Monthly	0	142787	35	Rural
+Puducherry	 31-12-2019	 Monthly	1.99	180808	45.07	Rural
+Puducherry	 31-01-2020	 Monthly	0.58	176252	43.18	Rural
+Puducherry	 29-02-2020	 Monthly	1.74	183619	45.38	Rural
+Puducherry	 31-03-2020	 Monthly	2.31	142176	35.23	Rural
+Puducherry	 30-04-2020	 Monthly	74.51	49420	46.79	Rural
+Punjab	 31-05-2019	 Monthly	9.17	6088547	44.79	Rural
+Punjab	 30-06-2019	 Monthly	12.21	6025235	45.79	Rural
+Punjab	 31-07-2019	 Monthly	9.64	6308129	46.5	Rural
+Punjab	 31-08-2019	 Monthly	6.69	6183427	44.08	Rural
+Punjab	 30-09-2019	 Monthly	8.59	6260971	45.49	Rural
+Punjab	 31-10-2019	 Monthly	12.56	6021921	45.66	Rural
+Punjab	 30-11-2019	 Monthly	7.07	6395022	45.55	Rural
+Punjab	 31-12-2019	 Monthly	6.13	6164215	43.4	Rural
+Punjab	 31-01-2020	 Monthly	9.69	6189471	45.22	Rural
+Punjab	 29-02-2020	 Monthly	10.41	6009820	44.19	Rural
+Punjab	 31-03-2020	 Monthly	10.51	6373692	46.85	Rural
+Punjab	 30-04-2020	 Monthly	3.69	4721590	32.2	Rural
+Punjab	 31-05-2020	 Monthly	40.59	3727366	41.14	Rural
+Punjab	 30-06-2020	 Monthly	20	5364047	43.9	Rural
+Rajasthan	 31-05-2019	 Monthly	4.03	15226005	38.52	Rural
+Rajasthan	 30-06-2019	 Monthly	13.7	14610564	41.02	Rural
+Rajasthan	 31-07-2019	 Monthly	9.7	14859873	39.78	Rural
+Rajasthan	 31-08-2019	 Monthly	12.5	15052051	41.48	Rural
+Rajasthan	 30-09-2019	 Monthly	5.45	15419779	39.24	Rural
+Rajasthan	 31-10-2019	 Monthly	14.66	15178544	42.69	Rural
+Rajasthan	 30-11-2019	 Monthly	10.47	15278556	40.87	Rural
+Rajasthan	 31-12-2019	 Monthly	13.96	15485307	43	Rural
+Rajasthan	 31-01-2020	 Monthly	8	15484353	40.12	Rural
+Rajasthan	 29-02-2020	 Monthly	14.48	15040572	41.83	Rural
+Rajasthan	 31-03-2020	 Monthly	9.47	15059769	39.47	Rural
+Rajasthan	 30-04-2020	 Monthly	12.25	13051219	35.21	Rural
+Rajasthan	 31-05-2020	 Monthly	10.45	15586833	41.11	Rural
+Rajasthan	 30-06-2020	 Monthly	13.86	16076978	43.98	Rural
+Sikkim	 31-10-2019	 Monthly	5.48	146688	44.06	Rural
+Sikkim	 30-11-2019	 Monthly	13.11	162426	53.04	Rural
+Sikkim	 31-12-2019	 Monthly	1	161647	46.3	Rural
+Sikkim	 30-04-2020	 Monthly	0	133399	37.72	Rural
+Sikkim	 30-06-2020	 Monthly	5.81	141313	42.36	Rural
+Tamil Nadu	 31-05-2019	 Monthly	0.97	15844698	49.44	Rural
+Tamil Nadu	 30-06-2019	 Monthly	0.92	16375303	50.99	Rural
+Tamil Nadu	 31-07-2019	 Monthly	6.01	16455928	53.94	Rural
+Tamil Nadu	 31-08-2019	 Monthly	2.91	16463931	52.17	Rural
+Tamil Nadu	 30-09-2019	 Monthly	1.71	14595441	45.62	Rural
+Tamil Nadu	 31-10-2019	 Monthly	1.46	15595647	48.55	Rural
+Tamil Nadu	 30-11-2019	 Monthly	2.46	16223430	50.95	Rural
+Tamil Nadu	 31-12-2019	 Monthly	3.73	15356938	48.8	Rural
+Tamil Nadu	 31-01-2020	 Monthly	1.18	14954646	46.23	Rural
+Tamil Nadu	 29-02-2020	 Monthly	1.17	15828488	48.86	Rural
+Tamil Nadu	 31-03-2020	 Monthly	6.36	15848590	51.56	Rural
+Tamil Nadu	 30-04-2020	 Monthly	53.19	5086200	33.05	Rural
+Tamil Nadu	 31-05-2020	 Monthly	38.73	5768342	28.6	Rural
+Tamil Nadu	 30-06-2020	 Monthly	2.06	10169115	31.49	Rural
+Telangana	 31-05-2019	 Monthly	2.23	11053353	61.74	Rural
+Telangana	 30-06-2019	 Monthly	5.92	10728822	62.19	Rural
+Telangana	 31-07-2019	 Monthly	2.45	11538688	64.4	Rural
+Telangana	 31-08-2019	 Monthly	1.4	10743959	59.23	Rural
+Telangana	 30-09-2019	 Monthly	5.49	12636415	72.57	Rural
+Telangana	 31-10-2019	 Monthly	7.29	11375354	66.49	Rural
+Telangana	 30-11-2019	 Monthly	6.47	11265828	65.17	Rural
+Telangana	 31-12-2019	 Monthly	1.35	11068056	60.61	Rural
+Telangana	 31-01-2020	 Monthly	5.02	12065915	68.51	Rural
+Telangana	 29-02-2020	 Monthly	9.02	11304474	66.92	Rural
+Telangana	 31-03-2020	 Monthly	5.63	12028377	68.53	Rural
+Telangana	 30-04-2020	 Monthly	4.51	8793799	49.44	Rural
+Telangana	 31-05-2020	 Monthly	34.01	7508747	61	Rural
+Telangana	 30-06-2020	 Monthly	19.3	8891181	58.97	Rural
+Tripura	 31-05-2019	 Monthly	29.25	1019549	64.47	Rural
+Tripura	 30-06-2019	 Monthly	26.64	1107013	67.4	Rural
+Tripura	 31-07-2019	 Monthly	22.47	1052597	60.54	Rural
+Tripura	 31-08-2019	 Monthly	25.49	975501	58.29	Rural
+Tripura	 30-09-2019	 Monthly	30.23	1034408	65.9	Rural
+Tripura	 31-10-2019	 Monthly	27.54	1113764	68.21	Rural
+Tripura	 30-11-2019	 Monthly	25.25	1084633	64.29	Rural
+Tripura	 31-12-2019	 Monthly	26.53	1046878	63.02	Rural
+Tripura	 31-01-2020	 Monthly	31.91	1057975	68.61	Rural
+Tripura	 29-02-2020	 Monthly	26.22	1169347	69.88	Rural
+Tripura	 31-03-2020	 Monthly	31.61	1060946	68.28	Rural
+Tripura	 30-04-2020	 Monthly	43.64	675083	52.63	Rural
+Tripura	 31-05-2020	 Monthly	14.71	911789	46.9	Rural
+Tripura	 30-06-2020	 Monthly	18.84	1106978	59.74	Rural
+Uttar Pradesh	 31-05-2019	 Monthly	10.26	43287808	39.96	Rural
+Uttar Pradesh	 30-06-2019	 Monthly	11.13	42276572	39.32	Rural
+Uttar Pradesh	 31-07-2019	 Monthly	9.19	42697000	38.78	Rural
+Uttar Pradesh	 31-08-2019	 Monthly	11.47	43298746	40.24	Rural
+Uttar Pradesh	 30-09-2019	 Monthly	6.45	44198762	38.79	Rural
+Uttar Pradesh	 31-10-2019	 Monthly	10.18	42833265	39.07	Rural
+Uttar Pradesh	 30-11-2019	 Monthly	6.94	43261530	38.01	Rural
+Uttar Pradesh	 31-12-2019	 Monthly	8.43	44640087	39.77	Rural
+Uttar Pradesh	 31-01-2020	 Monthly	6.06	45777509	39.67	Rural
+Uttar Pradesh	 29-02-2020	 Monthly	8.12	44257432	39.13	Rural
+Uttar Pradesh	 31-03-2020	 Monthly	9.37	43086706	38.53	Rural
+Uttar Pradesh	 30-04-2020	 Monthly	19.92	39970677	40.37	Rural
+Uttar Pradesh	 31-05-2020	 Monthly	16.89	38640999	37.52	Rural
+Uttar Pradesh	 30-06-2020	 Monthly	8.51	41908909	36.89	Rural
+Uttarakhand	 31-05-2019	 Monthly	1.63	2108044	37.47	Rural
+Uttarakhand	 30-06-2019	 Monthly	4.65	2021553	37.01	Rural
+Uttarakhand	 31-07-2019	 Monthly	5.74	2000524	36.97	Rural
+Uttarakhand	 31-08-2019	 Monthly	6.11	1911380	35.39	Rural
+Uttarakhand	 30-09-2019	 Monthly	3.47	2157845	38.79	Rural
+Uttarakhand	 31-10-2019	 Monthly	4.83	2027662	36.9	Rural
+Uttarakhand	 30-11-2019	 Monthly	5.56	2007113	36.73	Rural
+Uttarakhand	 31-12-2019	 Monthly	4.52	1947566	35.19	Rural
+Uttarakhand	 31-01-2020	 Monthly	4.17	1986386	35.69	Rural
+Uttarakhand	 29-02-2020	 Monthly	4.85	2057523	37.16	Rural
+Uttarakhand	 30-04-2020	 Monthly	3.66	1972074	35.04	Rural
+Uttarakhand	 31-05-2020	 Monthly	3.57	1915482	33.94	Rural
+Uttarakhand	 30-06-2020	 Monthly	10.71	1675441	32	Rural
+West Bengal	 31-05-2019	 Monthly	6.02	23452875	46.41	Rural
+West Bengal	 30-06-2019	 Monthly	5.85	25543465	50.36	Rural
+West Bengal	 31-07-2019	 Monthly	5.62	24857807	48.78	Rural
+West Bengal	 31-08-2019	 Monthly	5.58	24924827	48.79	Rural
+West Bengal	 30-09-2019	 Monthly	5.26	25610773	49.87	Rural
+West Bengal	 31-10-2019	 Monthly	6.78	24353018	48.09	Rural
+West Bengal	 30-11-2019	 Monthly	5.83	25630359	50	Rural
+West Bengal	 31-12-2019	 Monthly	5.79	24906239	48.47	Rural
+West Bengal	 31-01-2020	 Monthly	6.79	24612171	48.3	Rural
+West Bengal	 29-02-2020	 Monthly	3.78	26093009	49.51	Rural
+West Bengal	 31-03-2020	 Monthly	7.02	25097812	49.18	Rural
+West Bengal	 30-04-2020	 Monthly	18.32	17639370	39.27	Rural
+West Bengal	 31-05-2020	 Monthly	18.43	19115772	42.53	Rural
+West Bengal	 30-06-2020	 Monthly	4.94	21225887	40.44	Rural
+Andhra Pradesh	 31-05-2019	Monthly	6.09	4788661	37.45	Urban
+Andhra Pradesh	 30-06-2019	Monthly	3.8	4824630	36.76	Urban
+Andhra Pradesh	 31-07-2019	Monthly	5.64	4657443	36.1	Urban
+Andhra Pradesh	 31-08-2019	Monthly	4.61	4743179	36.29	Urban
+Andhra Pradesh	 30-09-2019	Monthly	6.01	4733996	36.69	Urban
+Andhra Pradesh	 31-10-2019	Monthly	4.7	4774377	36.41	Urban
+Andhra Pradesh	 30-11-2019	Monthly	7.54	4668772	36.62	Urban
+Andhra Pradesh	 31-12-2019	Monthly	7.88	4913963	38.61	Urban
+Andhra Pradesh	 31-01-2020	Monthly	7.11	4618860	35.91	Urban
+Andhra Pradesh	 29-02-2020	Monthly	5.66	4822035	36.84	Urban
+Andhra Pradesh	 31-03-2020	Monthly	9.88	4521537	36.08	Urban
+Andhra Pradesh	 30-04-2020	Monthly	32.3	2544084	26.97	Urban
+Andhra Pradesh	 31-05-2020	Monthly	24.91	3428356	32.69	Urban
+Andhra Pradesh	 30-06-2020	Monthly	5.86	4954389	37.61	Urban
+Assam	 31-05-2019	Monthly	7.87	1671707	44.92	Urban
+Assam	 30-06-2019	Monthly	9.89	1647342	45.17	Urban
+Assam	 31-07-2019	Monthly	3.21	1739838	44.32	Urban
+Andhra Pradesh	 31-05-2020	Monthly	13.41117647	2331293.699	40.16220588	Urban
+Andhra Pradesh	 30-06-2020	Monthly	13.90156863	2145534.377	40.47147059	Urban
+Andhra Pradesh	 31-07-2020	Monthly	14.39196078	1959775.056	40.78073529	Urban
+Andhra Pradesh	 31-08-2020	Monthly	14.88235294	1774015.735	41.09	Urban
+Andhra Pradesh	 30-09-2020	Monthly	15.3727451	1588256.414	41.39926471	Urban
+Andhra Pradesh	 31-10-2020	Monthly	15.86313725	1402497.093	41.70852941	Urban
+Andhra Pradesh	 30-11-2020	Monthly	16.35352941	1216737.772	42.01779412	Urban
+Andhra Pradesh	 31-12-2020	Monthly	16.84392157	1030978.451	42.32705882	Urban
+Andhra Pradesh	 31-01-2021	Monthly	17.33431373	845219.1299	42.63632353	Urban
+Andhra Pradesh	 29-02-2021	Monthly	17.82470588	659459.8088	42.94558824	Urban
+Andhra Pradesh	 31-03-2021	Monthly	18.31509804	473700.4877	43.25485294	Urban
+Andhra Pradesh	 30-04-2021	Monthly	18.8054902	287941.1667	43.56411765	Urban
+Andhra Pradesh	 31-05-2021	Monthly	19.29588235	102181.8456	43.87338235	Urban
+Andhra Pradesh	 30-06-2021	Monthly	19.78627451	-83577.47549	44.18264706	Urban
+Assam	 31-05-2020	Monthly	20.27666667	-269336.7966	44.49191176	Urban
+Assam	 30-06-2020	Monthly	20.76705882	-455096.1176	44.80117647	Urban
+Assam	 31-07-2020	Monthly	21.25745098	-640855.4387	45.11044118	Urban
+Andhra Pradesh	 31-05-2021	Monthly	21.74784314	-826614.7598	45.41970588	Urban
+Andhra Pradesh	 30-06-2021	Monthly	22.23823529	-1012374.081	45.72897059	Urban
+Andhra Pradesh	 31-07-2021	Monthly	22.72862745	-1198133.402	46.03823529	Urban
+Andhra Pradesh	 31-08-2021	Monthly	23.21901961	-1383892.723	46.3475	Urban
+Andhra Pradesh	 30-09-2021	Monthly	23.70941176	-1569652.044	46.65676471	Urban
+Andhra Pradesh	 31-10-2021	Monthly	24.19980392	-1755411.365	46.96602941	Urban
+Andhra Pradesh	 30-11-2021	Monthly	24.69019608	-1941170.686	47.27529412	Urban
+Andhra Pradesh	 31-12-2021	Monthly	25.18058824	-2126930.007	47.58455882	Urban
+Andhra Pradesh	 31-01-2022	Monthly	25.67098039	-2312689.328	47.89382353	Urban
+Andhra Pradesh	 29-02-2022	Monthly	26.16137255	-2498448.65	48.20308824	Urban
+Andhra Pradesh	 31-03-2022	Monthly	26.65176471	-2684207.971	48.51235294	Urban
+Andhra Pradesh	 30-04-2022	Monthly	27.14215686	-2869967.292	48.82161765	Urban
+Andhra Pradesh	 31-05-2022	Monthly	27.63254902	-3055726.613	49.13088235	Urban
+Andhra Pradesh	 30-06-2022	Monthly	28.12294118	-3241485.934	49.44014706	Urban
+Assam	 31-05-2021	Monthly	28.61333333	-3427245.255	49.74941176	Urban
+Assam	 30-06-2021	Monthly	29.10372549	-3613004.576	50.05867647	Urban
+Assam	 31-07-2021	Monthly	29.59411765	-3798763.897	50.36794118	Urban
+Andhra Pradesh	 31-05-2022	Monthly	30.0845098	-3984523.218	50.67720588	Urban
+Andhra Pradesh	 30-06-2022	Monthly	30.57490196	-4170282.539	50.98647059	Urban
+Andhra Pradesh	 31-07-2022	Monthly	31.06529412	-4356041.86	51.29573529	Urban
+Andhra Pradesh	 31-08-2022	Monthly	31.55568627	-4541801.181	51.605	Urban
+Andhra Pradesh	 30-09-2022	Monthly	32.04607843	-4727560.502	51.91426471	Urban
+Andhra Pradesh	 31-10-2022	Monthly	32.53647059	-4913319.824	52.22352941	Urban
+Andhra Pradesh	 30-11-2022	Monthly	33.02686275	-5099079.145	52.53279412	Urban
+Andhra Pradesh	 31-12-2022	Monthly	33.5172549	-5284838.466	52.84205882	Urban
+Andhra Pradesh	 31-01-2023	Monthly	34.00764706	-5470597.787	53.15132353	Urban
+Andhra Pradesh	 29-02-2023	Monthly	34.49803922	-5656357.108	53.46058824	Urban
+Andhra Pradesh	 31-03-2023	Monthly	34.98843137	-5842116.429	53.76985294	Urban
+Andhra Pradesh	 30-04-2023	Monthly	35.47882353	-6027875.75	54.07911765	Urban
+Andhra Pradesh	 31-05-2023	Monthly	35.96921569	-6213635.071	54.38838235	Urban
+Andhra Pradesh	 30-06-2023	Monthly	36.45960784	-6399394.392	54.69764706	Urban
+Assam	 31-05-2022	Monthly	36.95	-6585153.713	55.00691176	Urban
+Assam	 30-06-2022	Monthly	37.44039216	-6770913.034	55.31617647	Urban
+Assam	 31-07-2022	Monthly	37.93078431	-6956672.355	55.62544118	Urban
+Andhra Pradesh	 31-05-2023	Monthly	38.42117647	-7142431.676	55.93470588	Urban
+Andhra Pradesh	 30-06-2023	Monthly	38.91156863	-7328190.998	56.24397059	Urban
+Andhra Pradesh	 31-07-2023	Monthly	39.40196078	-7513950.319	56.55323529	Urban
+Andhra Pradesh	 31-08-2023	Monthly	39.89235294	-7699709.64	56.8625	Urban
+Andhra Pradesh	 30-09-2023	Monthly	40.3827451	-7885468.961	57.17176471	Urban
+Andhra Pradesh	 31-10-2023	Monthly	40.87313725	-8071228.282	57.48102941	Urban
+Andhra Pradesh	 30-11-2023	Monthly	41.36352941	-8256987.603	57.79029412	Urban
+Andhra Pradesh	 31-12-2023	Monthly	41.85392157	-8442746.924	58.09955882	Urban
+Andhra Pradesh	 31-01-2024	Monthly	42.34431373	-8628506.245	58.40882353	Urban
+Andhra Pradesh	 29-02-2024	Monthly	42.83470588	-8814265.566	58.71808824	Urban
+Andhra Pradesh	 31-03-2024	Monthly	43.32509804	-9000024.887	59.02735294	Urban
+Andhra Pradesh	 30-04-2024	Monthly	43.8154902	-9185784.208	59.33661765	Urban
+Andhra Pradesh	 31-05-2024	Monthly	44.30588235	-9371543.529	59.64588235	Urban
+Andhra Pradesh	 30-06-2024	Monthly	44.79627451	-9557302.85	59.95514706	Urban
+Assam	 31-05-2023	Monthly	45.28666667	-9743062.172	60.26441176	Urban
+Assam	 30-06-2023	Monthly	45.77705882	-9928821.493	60.57367647	Urban
+Assam	 31-07-2023	Monthly	46.26745098	-10114580.81	60.88294118	Urban
+Andhra Pradesh	 31-05-2024	Monthly	46.75784314	-10300340.13	61.19220588	Urban
+Andhra Pradesh	 30-06-2024	Monthly	47.24823529	-10486099.46	61.50147059	Urban
+Andhra Pradesh	 31-07-2024	Monthly	47.73862745	-10671858.78	61.81073529	Urban
+Andhra Pradesh	 31-08-2024	Monthly	48.22901961	-10857618.1	62.12	Urban
+Andhra Pradesh	 30-09-2024	Monthly	48.71941176	-11043377.42	62.42926471	Urban
+Andhra Pradesh	 31-10-2024	Monthly	49.20980392	-11229136.74	62.73852941	Urban
+Andhra Pradesh	 30-11-2024	Monthly	49.70019608	-11414896.06	63.04779412	Urban
+Andhra Pradesh	 31-12-2024	Monthly	50.19058824	-11600655.38	63.35705882	Urban
+Andhra Pradesh	 31-01-2025	Monthly	50.68098039	-11786414.7	63.66632353	Urban
+Andhra Pradesh	 29-02-2025	Monthly	51.17137255	-11972174.02	63.97558824	Urban
+Andhra Pradesh	 31-03-2025	Monthly	51.66176471	-12157933.35	64.28485294	Urban
+Andhra Pradesh	 30-04-2025	Monthly	52.15215686	-12343692.67	64.59411765	Urban
+Andhra Pradesh	 31-05-2025	Monthly	52.64254902	-12529451.99	64.90338235	Urban
+Andhra Pradesh	 30-06-2025	Monthly	53.13294118	-12715211.31	65.21264706	Urban
+Assam	 31-05-2024	Monthly	53.62333333	-12900970.63	65.52191176	Urban
+Assam	 30-06-2024	Monthly	54.11372549	-13086729.95	65.83117647	Urban
+Assam	 31-07-2024	Monthly	54.60411765	-13272489.27	66.14044118	Urban
+Andhra Pradesh	 31-05-2025	Monthly	55.0945098	-13458248.59	66.44970588	Urban
+Andhra Pradesh	 30-06-2025	Monthly	55.58490196	-13644007.91	66.75897059	Urban
+Andhra Pradesh	 31-07-2025	Monthly	56.07529412	-13829767.24	67.06823529	Urban
+Andhra Pradesh	 31-08-2025	Monthly	56.56568627	-14015526.56	67.3775	Urban
+Andhra Pradesh	 30-09-2025	Monthly	57.05607843	-14201285.88	67.68676471	Urban
+Andhra Pradesh	 31-10-2025	Monthly	57.54647059	-14387045.2	67.99602941	Urban
+Andhra Pradesh	 30-11-2025	Monthly	58.03686275	-14572804.52	68.30529412	Urban
+Andhra Pradesh	 31-12-2025	Monthly	58.5272549	-14758563.84	68.61455882	Urban
+Andhra Pradesh	 31-01-2026	Monthly	59.01764706	-14944323.16	68.92382353	Urban
+Andhra Pradesh	 29-02-2026	Monthly	59.50803922	-15130082.48	69.23308824	Urban
+Andhra Pradesh	 31-03-2026	Monthly	59.99843137	-15315841.8	69.54235294	Urban
+Andhra Pradesh	 30-04-2026	Monthly	60.48882353	-15501601.13	69.85161765	Urban
+Andhra Pradesh	 31-05-2026	Monthly	60.97921569	-15687360.45	70.16088235	Urban
+Andhra Pradesh	 30-06-2026	Monthly	61.46960784	-15873119.77	70.47014706	Urban
+Assam	 31-05-2025	Monthly	61.96	-16058879.09	70.77941176	Urban
+Assam	 30-06-2025	Monthly	62.45039216	-16244638.41	71.08867647	Urban
+Assam	 31-07-2025	Monthly	62.94078431	-16430397.73	71.39794118	Urban
+Andhra Pradesh	 31-05-2026	Monthly	63.43117647	-16616157.05	71.70720588	Urban
+Andhra Pradesh	 30-06-2026	Monthly	63.92156863	-16801916.37	72.01647059	Urban
+Andhra Pradesh	 31-07-2026	Monthly	64.41196078	-16987675.69	72.32573529	Urban
+Andhra Pradesh	 31-08-2026	Monthly	64.90235294	-17173435.01	72.635	Urban
+Andhra Pradesh	 30-09-2026	Monthly	65.3927451	-17359194.34	72.94426471	Urban
+Andhra Pradesh	 31-10-2026	Monthly	65.88313725	-17544953.66	73.25352941	Urban
+Andhra Pradesh	 30-11-2026	Monthly	66.37352941	-17730712.98	73.56279412	Urban
+Andhra Pradesh	 31-12-2026	Monthly	66.86392157	-17916472.3	73.87205882	Urban
+Andhra Pradesh	 31-01-2027	Monthly	67.35431373	-18102231.62	74.18132353	Urban
+Andhra Pradesh	 29-02-2027	Monthly	67.84470588	-18287990.94	74.49058824	Urban
+Andhra Pradesh	 31-03-2027	Monthly	68.33509804	-18473750.26	74.79985294	Urban
+Andhra Pradesh	 30-04-2027	Monthly	68.8254902	-18659509.58	75.10911765	Urban
+Andhra Pradesh	 31-05-2027	Monthly	69.31588235	-18845268.9	75.41838235	Urban
+Andhra Pradesh	 30-06-2027	Monthly	69.80627451	-19031028.23	75.72764706	Urban
+Assam	 31-05-2026	Monthly	70.29666667	-19216787.55	76.03691176	Urban
+Assam	 30-06-2026	Monthly	70.78705882	-19402546.87	76.34617647	Urban
+Assam	 31-07-2026	Monthly	71.27745098	-19588306.19	76.65544118	Urban
+Andhra Pradesh	 31-05-2027	Monthly	71.76784314	-19774065.51	76.96470588	Urban
+Andhra Pradesh	 30-06-2027	Monthly	72.25823529	-19959824.83	77.27397059	Urban
+Andhra Pradesh	 31-07-2027	Monthly	72.74862745	-20145584.15	77.58323529	Urban
+Andhra Pradesh	 31-08-2027	Monthly	73.23901961	-20331343.47	77.8925	Urban
+Andhra Pradesh	 30-09-2027	Monthly	73.72941176	-20517102.79	78.20176471	Urban
+Andhra Pradesh	 31-10-2027	Monthly	74.21980392	-20702862.12	78.51102941	Urban
+Andhra Pradesh	 30-11-2027	Monthly	74.71019608	-20888621.44	78.82029412	Urban
+Andhra Pradesh	 31-12-2027	Monthly	75.20058824	-21074380.76	79.12955882	Urban
+Andhra Pradesh	 31-01-2028	Monthly	75.69098039	-21260140.08	79.43882353	Urban
+Andhra Pradesh	 29-02-2028	Monthly	76.18137255	-21445899.4	79.74808824	Urban
+Andhra Pradesh	 31-03-2028	Monthly	76.67176471	-21631658.72	80.05735294	Urban
+Andhra Pradesh	 30-04-2028	Monthly	77.16215686	-21817418.04	80.36661765	Urban
+Andhra Pradesh	 31-05-2028	Monthly	77.65254902	-22003177.36	80.67588235	Urban
+Andhra Pradesh	 30-06-2028	Monthly	78.14294118	-22188936.68	80.98514706	Urban
+Assam	 31-05-2027	Monthly	78.63333333	-22374696	81.29441176	Urban
+Assam	 30-06-2027	Monthly	79.12372549	-22560455.33	81.60367647	Urban
+Assam	 31-07-2027	Monthly	79.61411765	-22746214.65	81.91294118	Urban
+Andhra Pradesh	 31-05-2028	Monthly	80.1045098	-22931973.97	82.22220588	Urban
+Andhra Pradesh	 30-06-2028	Monthly	80.59490196	-23117733.29	82.53147059	Urban
+Andhra Pradesh	 31-07-2028	Monthly	81.08529412	-23303492.61	82.84073529	Urban
+Andhra Pradesh	 31-08-2028	Monthly	81.57568627	-23489251.93	83.15	Urban
+Andhra Pradesh	 30-09-2028	Monthly	82.06607843	-23675011.25	83.45926471	Urban
+Andhra Pradesh	 31-10-2028	Monthly	82.55647059	-23860770.57	83.76852941	Urban
+Andhra Pradesh	 30-11-2028	Monthly	83.04686275	-24046529.89	84.07779412	Urban
+Andhra Pradesh	 31-12-2028	Monthly	83.5372549	-24232289.22	84.38705882	Urban
+Andhra Pradesh	 31-01-2029	Monthly	84.02764706	-24418048.54	84.69632353	Urban
+Andhra Pradesh	 29-02-2029	Monthly	84.51803922	-24603807.86	85.00558824	Urban
+Andhra Pradesh	 31-03-2029	Monthly	85.00843137	-24789567.18	85.31485294	Urban
+Andhra Pradesh	 30-04-2029	Monthly	85.49882353	-24975326.5	85.62411765	Urban
+Andhra Pradesh	 31-05-2029	Monthly	85.98921569	-25161085.82	85.93338235	Urban
+Andhra Pradesh	 30-06-2029	Monthly	86.47960784	-25346845.14	86.24264706	Urban
+Assam	 31-05-2028	Monthly	86.97	-25532604.46	86.55191176	Urban
+Assam	 30-06-2028	Monthly	87.46039216	-25718363.78	86.86117647	Urban
+Assam	 31-07-2028	Monthly	87.95078431	-25904123.11	87.17044118	Urban
+Andhra Pradesh	 31-05-2029	Monthly	88.44117647	-26089882.43	87.47970588	Urban
+Andhra Pradesh	 30-06-2029	Monthly	88.93156863	-26275641.75	87.78897059	Urban
+Andhra Pradesh	 31-07-2029	Monthly	89.42196078	-26461401.07	88.09823529	Urban
+Andhra Pradesh	 31-08-2029	Monthly	89.91235294	-26647160.39	88.4075	Urban
+Andhra Pradesh	 30-09-2029	Monthly	90.4027451	-26832919.71	88.71676471	Urban
+Andhra Pradesh	 31-10-2029	Monthly	90.89313725	-27018679.03	89.02602941	Urban
+Andhra Pradesh	 30-11-2029	Monthly	91.38352941	-27204438.35	89.33529412	Urban
+Andhra Pradesh	 31-12-2029	Monthly	91.87392157	-27390197.67	89.64455882	Urban
+Andhra Pradesh	 31-01-2030	Monthly	92.36431373	-27575957	89.95382353	Urban
+Andhra Pradesh	 29-02-2030	Monthly	92.85470588	-27761716.32	90.26308824	Urban
+Andhra Pradesh	 31-03-2030	Monthly	93.34509804	-27947475.64	90.57235294	Urban
+Andhra Pradesh	 30-04-2030	Monthly	93.8354902	-28133234.96	90.88161765	Urban
+Andhra Pradesh	 31-05-2030	Monthly	94.32588235	-28318994.28	91.19088235	Urban
+Andhra Pradesh	 30-06-2030	Monthly	94.81627451	-28504753.6	91.50014706	Urban
+Assam	 31-05-2029	Monthly	95.30666667	-28690512.92	91.80941176	Urban
+Assam	 30-06-2029	Monthly	95.79705882	-28876272.24	92.11867647	Urban
+Assam	 31-07-2029	Monthly	96.28745098	-29062031.56	92.42794118	Urban
+Andhra Pradesh	 31-05-2030	Monthly	96.77784314	-29247790.88	92.73720588	Urban
+Andhra Pradesh	 30-06-2030	Monthly	97.26823529	-29433550.21	93.04647059	Urban
+Andhra Pradesh	 31-07-2030	Monthly	97.75862745	-29619309.53	93.35573529	Urban
+Andhra Pradesh	 31-08-2030	Monthly	98.24901961	-29805068.85	93.665	Urban
+Andhra Pradesh	 30-09-2030	Monthly	98.73941176	-29990828.17	93.97426471	Urban
+Andhra Pradesh	 31-10-2030	Monthly	99.22980392	-30176587.49	94.28352941	Urban
+Andhra Pradesh	 30-11-2030	Monthly	99.72019608	-30362346.81	94.59279412	Urban
+Andhra Pradesh	 31-12-2030	Monthly	100.2105882	-30548106.13	94.90205882	Urban
+Andhra Pradesh	 31-01-2031	Monthly	100.7009804	-30733865.45	95.21132353	Urban
+Andhra Pradesh	 29-02-2031	Monthly	101.1913725	-30919624.77	95.52058824	Urban
+Andhra Pradesh	 31-03-2031	Monthly	101.6817647	-31105384.1	95.82985294	Urban
+Andhra Pradesh	 30-04-2031	Monthly	102.1721569	-31291143.42	96.13911765	Urban
+Andhra Pradesh	 31-05-2031	Monthly	102.662549	-31476902.74	96.44838235	Urban
+Andhra Pradesh	 30-06-2031	Monthly	103.1529412	-31662662.06	96.75764706	Urban
+Assam	 31-05-2030	Monthly	103.6433333	-31848421.38	97.06691176	Urban
+Assam	 30-06-2030	Monthly	104.1337255	-32034180.7	97.37617647	Urban
+Assam	 31-07-2030	Monthly	104.6241176	-32219940.02	97.68544118	Urban
+Andhra Pradesh	 31-05-2031	Monthly	105.1145098	-32405699.34	97.99470588	Urban
+Andhra Pradesh	 30-06-2031	Monthly	105.604902	-32591458.66	98.30397059	Urban
+Andhra Pradesh	 31-07-2031	Monthly	106.0952941	-32777217.99	98.61323529	Urban
+Andhra Pradesh	 31-08-2031	Monthly	106.5856863	-32962977.31	98.9225	Urban
+Andhra Pradesh	 30-09-2031	Monthly	107.0760784	-33148736.63	99.23176471	Urban
+Andhra Pradesh	 31-10-2031	Monthly	107.5664706	-33334495.95	99.54102941	Urban
+Andhra Pradesh	 30-11-2031	Monthly	108.0568627	-33520255.27	99.85029412	Urban
+Andhra Pradesh	 31-12-2031	Monthly	108.5472549	-33706014.59	100.1595588	Urban
+Andhra Pradesh	 31-01-2032	Monthly	109.0376471	-33891773.91	100.4688235	Urban
+Andhra Pradesh	 29-02-2032	Monthly	109.5280392	-34077533.23	100.7780882	Urban
+Andhra Pradesh	 31-03-2032	Monthly	110.0184314	-34263292.55	101.0873529	Urban
+Andhra Pradesh	 30-04-2032	Monthly	110.5088235	-34449051.88	101.3966176	Urban
+Andhra Pradesh	 31-05-2032	Monthly	110.9992157	-34634811.2	101.7058824	Urban
+Andhra Pradesh	 30-06-2032	Monthly	111.4896078	-34820570.52	102.0151471	Urban
+Assam	 31-05-2031	Monthly	111.98	-35006329.84	102.3244118	Urban
+Assam	 30-06-2031	Monthly	112.4703922	-35192089.16	102.6336765	Urban
+Assam	 31-07-2031	Monthly	112.9607843	-35377848.48	102.9429412	Urban
+Andhra Pradesh	 31-05-2032	Monthly	113.4511765	-35563607.8	103.2522059	Urban
+Andhra Pradesh	 30-06-2032	Monthly	113.9415686	-35749367.12	103.5614706	Urban
+Andhra Pradesh	 31-07-2032	Monthly	114.4319608	-35935126.44	103.8707353	Urban
+Andhra Pradesh	 31-08-2032	Monthly	114.9223529	-36120885.76	104.18	Urban
+Andhra Pradesh	 30-09-2032	Monthly	115.4127451	-36306645.09	104.4892647	Urban
+Andhra Pradesh	 31-10-2032	Monthly	115.9031373	-36492404.41	104.7985294	Urban
+Andhra Pradesh	 30-11-2032	Monthly	116.3935294	-36678163.73	105.1077941	Urban
+Andhra Pradesh	 31-12-2032	Monthly	116.8839216	-36863923.05	105.4170588	Urban
+Andhra Pradesh	 31-01-2033	Monthly	117.3743137	-37049682.37	105.7263235	Urban
+Andhra Pradesh	 29-02-2033	Monthly	117.8647059	-37235441.69	106.0355882	Urban
+Andhra Pradesh	 31-03-2033	Monthly	118.355098	-37421201.01	106.3448529	Urban
+Andhra Pradesh	 30-04-2033	Monthly	118.8454902	-37606960.33	106.6541176	Urban
+Andhra Pradesh	 31-05-2033	Monthly	119.3358824	-37792719.65	106.9633824	Urban
+Andhra Pradesh	 30-06-2033	Monthly	119.8262745	-37978478.98	107.2726471	Urban
+Assam	 31-05-2032	Monthly	120.3166667	-38164238.3	107.5819118	Urban
+Assam	 30-06-2032	Monthly	120.8070588	-38349997.62	107.8911765	Urban
+Assam	 31-07-2032	Monthly	121.297451	-38535756.94	108.2004412	Urban
+Andhra Pradesh	 31-05-2033	Monthly	121.7878431	-38721516.26	108.5097059	Urban
+Andhra Pradesh	 30-06-2033	Monthly	122.2782353	-38907275.58	108.8189706	Urban
+Andhra Pradesh	 31-07-2033	Monthly	122.7686275	-39093034.9	109.1282353	Urban
+Andhra Pradesh	 31-08-2033	Monthly	123.2590196	-39278794.22	109.4375	Urban
+Andhra Pradesh	 30-09-2033	Monthly	123.7494118	-39464553.54	109.7467647	Urban
+Andhra Pradesh	 31-10-2033	Monthly	124.2398039	-39650312.87	110.0560294	Urban
+Andhra Pradesh	 30-11-2033	Monthly	124.7301961	-39836072.19	110.3652941	Urban
+Andhra Pradesh	 31-12-2033	Monthly	125.2205882	-40021831.51	110.6745588	Urban
+Andhra Pradesh	 31-01-2034	Monthly	125.7109804	-40207590.83	110.9838235	Urban
+Andhra Pradesh	 29-02-2034	Monthly	126.2013725	-40393350.15	111.2930882	Urban
+Andhra Pradesh	 31-03-2034	Monthly	126.6917647	-40579109.47	111.6023529	Urban
+Andhra Pradesh	 30-04-2034	Monthly	127.1821569	-40764868.79	111.9116176	Urban
+Andhra Pradesh	 31-05-2034	Monthly	127.672549	-40950628.11	112.2208824	Urban
+Andhra Pradesh	 30-06-2034	Monthly	128.1629412	-41136387.43	112.5301471	Urban
+Assam	 31-05-2033	Monthly	128.6533333	-41322146.75	112.8394118	Urban
+Assam	 30-06-2033	Monthly	129.1437255	-41507906.08	113.1486765	Urban
+Assam	 31-07-2033	Monthly	129.6341176	-41693665.4	113.4579412	Urban
+Andhra Pradesh	 31-05-2034	Monthly	130.1245098	-41879424.72	113.7672059	Urban
+Andhra Pradesh	 30-06-2034	Monthly	130.614902	-42065184.04	114.0764706	Urban
+Andhra Pradesh	 31-07-2034	Monthly	131.1052941	-42250943.36	114.3857353	Urban
+Andhra Pradesh	 31-08-2034	Monthly	131.5956863	-42436702.68	114.695	Urban
+Andhra Pradesh	 30-09-2034	Monthly	132.0860784	-42622462	115.0042647	Urban
+Andhra Pradesh	 31-10-2034	Monthly	132.5764706	-42808221.32	115.3135294	Urban
+Andhra Pradesh	 30-11-2034	Monthly	133.0668627	-42993980.64	115.6227941	Urban
+Andhra Pradesh	 31-12-2034	Monthly	133.5572549	-43179739.97	115.9320588	Urban
+Andhra Pradesh	 31-01-2035	Monthly	134.0476471	-43365499.29	116.2413235	Urban
+Andhra Pradesh	 29-02-2035	Monthly	134.5380392	-43551258.61	116.5505882	Urban
+Andhra Pradesh	 31-03-2035	Monthly	135.0284314	-43737017.93	116.8598529	Urban
+Andhra Pradesh	 30-04-2035	Monthly	135.5188235	-43922777.25	117.1691176	Urban
+Andhra Pradesh	 31-05-2035	Monthly	136.0092157	-44108536.57	117.4783824	Urban
+Andhra Pradesh	 30-06-2035	Monthly	136.4996078	-44294295.89	117.7876471	Urban
+Assam	 31-05-2034	Monthly	136.99	-44480055.21	118.0969118	Urban
+Assam	 30-06-2034	Monthly	137.4803922	-44665814.53	118.4061765	Urban
+Assam	 31-07-2034	Monthly	137.9707843	-44851573.86	118.7154412	Urban
+Andhra Pradesh	 31-05-2035	Monthly	138.4611765	-45037333.18	119.0247059	Urban
+Andhra Pradesh	 30-06-2035	Monthly	138.9515686	-45223092.5	119.3339706	Urban
+Andhra Pradesh	 31-07-2035	Monthly	139.4419608	-45408851.82	119.6432353	Urban
+Andhra Pradesh	 31-08-2035	Monthly	139.9323529	-45594611.14	119.9525	Urban
+Andhra Pradesh	 30-09-2035	Monthly	140.4227451	-45780370.46	120.2617647	Urban
+Andhra Pradesh	 31-10-2035	Monthly	140.9131373	-45966129.78	120.5710294	Urban
+Andhra Pradesh	 30-11-2035	Monthly	141.4035294	-46151889.1	120.8802941	Urban
+Andhra Pradesh	 31-12-2035	Monthly	141.8939216	-46337648.42	121.1895588	Urban
+Andhra Pradesh	 31-01-2036	Monthly	142.3843137	-46523407.75	121.4988235	Urban
+Andhra Pradesh	 29-02-2036	Monthly	142.8747059	-46709167.07	121.8080882	Urban
+Andhra Pradesh	 31-03-2036	Monthly	143.365098	-46894926.39	122.1173529	Urban
+Andhra Pradesh	 30-04-2036	Monthly	143.8554902	-47080685.71	122.4266176	Urban
+Andhra Pradesh	 31-05-2036	Monthly	144.3458824	-47266445.03	122.7358824	Urban
+Andhra Pradesh	 30-06-2036	Monthly	144.8362745	-47452204.35	123.0451471	Urban
+Assam	 31-05-2035	Monthly	145.3266667	-47637963.67	123.3544118	Urban
+Assam	 30-06-2035	Monthly	145.8170588	-47823722.99	123.6636765	Urban
+Assam	 31-07-2035	Monthly	146.307451	-48009482.31	123.9729412	Urban
+Andhra Pradesh	 31-05-2036	Monthly	146.7978431	-48195241.63	124.2822059	Urban
+Andhra Pradesh	 30-06-2036	Monthly	147.2882353	-48381000.96	124.5914706	Urban
+Andhra Pradesh	 31-07-2036	Monthly	147.7786275	-48566760.28	124.9007353	Urban
+Andhra Pradesh	 31-08-2036	Monthly	148.2690196	-48752519.6	125.21	Urban
+Andhra Pradesh	 30-09-2036	Monthly	148.7594118	-48938278.92	125.5192647	Urban
+Andhra Pradesh	 31-10-2036	Monthly	149.2498039	-49124038.24	125.8285294	Urban
+Andhra Pradesh	 30-11-2036	Monthly	149.7401961	-49309797.56	126.1377941	Urban
+Andhra Pradesh	 31-12-2036	Monthly	150.2305882	-49495556.88	126.4470588	Urban
+Andhra Pradesh	 31-01-2037	Monthly	150.7209804	-49681316.2	126.7563235	Urban
+Andhra Pradesh	 29-02-2037	Monthly	151.2113725	-49867075.52	127.0655882	Urban
+Andhra Pradesh	 31-03-2037	Monthly	151.7017647	-50052834.85	127.3748529	Urban
+Andhra Pradesh	 30-04-2037	Monthly	152.1921569	-50238594.17	127.6841176	Urban
+Andhra Pradesh	 31-05-2037	Monthly	152.682549	-50424353.49	127.9933824	Urban
+Andhra Pradesh	 30-06-2037	Monthly	153.1729412	-50610112.81	128.3026471	Urban
+Assam	 31-05-2036	Monthly	153.6633333	-50795872.13	128.6119118	Urban
+Assam	 30-06-2036	Monthly	154.1537255	-50981631.45	128.9211765	Urban
+Assam	 31-07-2036	Monthly	154.6441176	-51167390.77	129.2304412	Urban
+Andhra Pradesh	 31-05-2037	Monthly	155.1345098	-51353150.09	129.5397059	Urban
+Andhra Pradesh	 30-06-2037	Monthly	155.624902	-51538909.41	129.8489706	Urban
+Andhra Pradesh	 31-07-2037	Monthly	156.1152941	-51724668.74	130.1582353	Urban
+Andhra Pradesh	 31-08-2037	Monthly	156.6056863	-51910428.06	130.4675	Urban
+Andhra Pradesh	 30-09-2037	Monthly	157.0960784	-52096187.38	130.7767647	Urban
+Andhra Pradesh	 31-10-2037	Monthly	157.5864706	-52281946.7	131.0860294	Urban
+Andhra Pradesh	 30-11-2037	Monthly	158.0768627	-52467706.02	131.3952941	Urban
+Andhra Pradesh	 31-12-2037	Monthly	158.5672549	-52653465.34	131.7045588	Urban
+Andhra Pradesh	 31-01-2038	Monthly	159.0576471	-52839224.66	132.0138235	Urban
+Andhra Pradesh	 29-02-2038	Monthly	159.5480392	-53024983.98	132.3230882	Urban
+Andhra Pradesh	 31-03-2038	Monthly	160.0384314	-53210743.3	132.6323529	Urban
+Andhra Pradesh	 30-04-2038	Monthly	160.5288235	-53396502.63	132.9416176	Urban
+Andhra Pradesh	 31-05-2038	Monthly	161.0192157	-53582261.95	133.2508824	Urban
+Andhra Pradesh	 30-06-2038	Monthly	161.5096078	-53768021.27	133.5601471	Urban
+Assam	 31-05-2037	Monthly	162	-53953780.59	133.8694118	Urban
+Assam	 30-06-2037	Monthly	162.4903922	-54139539.91	134.1786765	Urban
+Assam	 31-07-2037	Monthly	162.9807843	-54325299.23	134.4879412	Urban
+Andhra Pradesh	 31-05-2038	Monthly	163.4711765	-54511058.55	134.7972059	Urban
+Andhra Pradesh	 30-06-2038	Monthly	163.9615686	-54696817.87	135.1064706	Urban
+Andhra Pradesh	 31-07-2038	Monthly	164.4519608	-54882577.19	135.4157353	Urban
+Andhra Pradesh	 31-08-2038	Monthly	164.9423529	-55068336.51	135.725	Urban
+Andhra Pradesh	 30-09-2038	Monthly	165.4327451	-55254095.84	136.0342647	Urban
+Andhra Pradesh	 31-10-2038	Monthly	165.9231373	-55439855.16	136.3435294	Urban
+Andhra Pradesh	 30-11-2038	Monthly	166.4135294	-55625614.48	136.6527941	Urban
+Andhra Pradesh	 31-12-2038	Monthly	166.9039216	-55811373.8	136.9620588	Urban
+Andhra Pradesh	 31-01-2039	Monthly	167.3943137	-55997133.12	137.2713235	Urban
+Andhra Pradesh	 29-02-2039	Monthly	167.8847059	-56182892.44	137.5805882	Urban
+Andhra Pradesh	 31-03-2039	Monthly	168.375098	-56368651.76	137.8898529	Urban
+Andhra Pradesh	 30-04-2039	Monthly	168.8654902	-56554411.08	138.1991176	Urban
+Andhra Pradesh	 31-05-2039	Monthly	169.3558824	-56740170.4	138.5083824	Urban
+Andhra Pradesh	 30-06-2039	Monthly	169.8462745	-56925929.73	138.8176471	Urban
+Assam	 31-05-2038	Monthly	170.3366667	-57111689.05	139.1269118	Urban
+Assam	 30-06-2038	Monthly	170.8270588	-57297448.37	139.4361765	Urban
+Assam	 31-07-2038	Monthly	171.317451	-57483207.69	139.7454412	Urban
+Andhra Pradesh	 31-05-2039	Monthly	171.8078431	-57668967.01	140.0547059	Urban
+Andhra Pradesh	 30-06-2039	Monthly	172.2982353	-57854726.33	140.3639706	Urban
+Andhra Pradesh	 31-07-2039	Monthly	172.7886275	-58040485.65	140.6732353	Urban
+Andhra Pradesh	 31-08-2039	Monthly	173.2790196	-58226244.97	140.9825	Urban
+Andhra Pradesh	 30-09-2039	Monthly	173.7694118	-58412004.29	141.2917647	Urban
+Andhra Pradesh	 31-10-2039	Monthly	174.2598039	-58597763.62	141.6010294	Urban
+Andhra Pradesh	 30-11-2039	Monthly	174.7501961	-58783522.94	141.9102941	Urban
+Andhra Pradesh	 31-12-2039	Monthly	175.2405882	-58969282.26	142.2195588	Urban
+Andhra Pradesh	 31-01-2040	Monthly	175.7309804	-59155041.58	142.5288235	Urban
+Andhra Pradesh	 29-02-2040	Monthly	176.2213725	-59340800.9	142.8380882	Urban
+Andhra Pradesh	 31-03-2040	Monthly	176.7117647	-59526560.22	143.1473529	Urban
+Andhra Pradesh	 30-04-2040	Monthly	177.2021569	-59712319.54	143.4566176	Urban
+Andhra Pradesh	 31-05-2040	Monthly	177.692549	-59898078.86	143.7658824	Urban
+Andhra Pradesh	 30-06-2040	Monthly	178.1829412	-60083838.18	144.0751471	Urban
+Assam	 31-05-2039	Monthly	178.6733333	-60269597.5	144.3844118	Urban
+Assam	 30-06-2039	Monthly	179.1637255	-60455356.83	144.6936765	Urban
+Assam	 31-07-2039	Monthly	179.6541176	-60641116.15	145.0029412	Urban
+Andhra Pradesh	 31-05-2040	Monthly	180.1445098	-60826875.47	145.3122059	Urban
+Andhra Pradesh	 30-06-2040	Monthly	180.634902	-61012634.79	145.6214706	Urban
+Andhra Pradesh	 31-07-2040	Monthly	181.1252941	-61198394.11	145.9307353	Urban
+Andhra Pradesh	 31-08-2040	Monthly	181.6156863	-61384153.43	146.24	Urban
+Andhra Pradesh	 30-09-2040	Monthly	182.1060784	-61569912.75	146.5492647	Urban
+Andhra Pradesh	 31-10-2040	Monthly	182.5964706	-61755672.07	146.8585294	Urban
+Andhra Pradesh	 30-11-2040	Monthly	183.0868627	-61941431.39	147.1677941	Urban
+Andhra Pradesh	 31-12-2040	Monthly	183.5772549	-62127190.72	147.4770588	Urban
+Andhra Pradesh	 31-01-2041	Monthly	184.0676471	-62312950.04	147.7863235	Urban
+Andhra Pradesh	 29-02-2041	Monthly	184.5580392	-62498709.36	148.0955882	Urban
+Andhra Pradesh	 31-03-2041	Monthly	185.0484314	-62684468.68	148.4048529	Urban
+Andhra Pradesh	 30-04-2041	Monthly	185.5388235	-62870228	148.7141176	Urban
+Andhra Pradesh	 31-05-2041	Monthly	186.0292157	-63055987.32	149.0233824	Urban
+Andhra Pradesh	 30-06-2041	Monthly	186.5196078	-63241746.64	149.3326471	Urban
+Assam	 31-05-2040	Monthly	187.01	-63427505.96	149.6419118	Urban
+Assam	 30-06-2040	Monthly	187.5003922	-63613265.28	149.9511765	Urban
+Assam	 31-07-2040	Monthly	187.9907843	-63799024.61	150.2604412	Urban
+Andhra Pradesh	 31-05-2041	Monthly	188.4811765	-63984783.93	150.5697059	Urban
+Andhra Pradesh	 30-06-2041	Monthly	188.9715686	-64170543.25	150.8789706	Urban
+Andhra Pradesh	 31-07-2041	Monthly	189.4619608	-64356302.57	151.1882353	Urban
+Andhra Pradesh	 31-08-2041	Monthly	189.9523529	-64542061.89	151.4975	Urban
+Andhra Pradesh	 30-09-2041	Monthly	190.4427451	-64727821.21	151.8067647	Urban
+Andhra Pradesh	 31-10-2041	Monthly	190.9331373	-64913580.53	152.1160294	Urban
+Andhra Pradesh	 30-11-2041	Monthly	191.4235294	-65099339.85	152.4252941	Urban
+Andhra Pradesh	 31-12-2041	Monthly	191.9139216	-65285099.17	152.7345588	Urban
+Andhra Pradesh	 31-01-2042	Monthly	192.4043137	-65470858.5	153.0438235	Urban
+Andhra Pradesh	 29-02-2042	Monthly	192.8947059	-65656617.82	153.3530882	Urban
+Andhra Pradesh	 31-03-2042	Monthly	193.385098	-65842377.14	153.6623529	Urban
+Andhra Pradesh	 30-04-2042	Monthly	193.8754902	-66028136.46	153.9716176	Urban
+Andhra Pradesh	 31-05-2042	Monthly	194.3658824	-66213895.78	154.2808824	Urban
+Andhra Pradesh	 30-06-2042	Monthly	194.8562745	-66399655.1	154.5901471	Urban
+Assam	 31-05-2041	Monthly	195.3466667	-66585414.42	154.8994118	Urban
+Assam	 30-06-2041	Monthly	195.8370588	-66771173.74	155.2086765	Urban
+Assam	 31-07-2041	Monthly	196.327451	-66956933.06	155.5179412	Urban
+Andhra Pradesh	 31-05-2042	Monthly	196.8178431	-67142692.38	155.8272059	Urban
+Andhra Pradesh	 30-06-2042	Monthly	197.3082353	-67328451.71	156.1364706	Urban
+Andhra Pradesh	 31-07-2042	Monthly	197.7986275	-67514211.03	156.4457353	Urban
+Andhra Pradesh	 31-08-2042	Monthly	198.2890196	-67699970.35	156.755	Urban
+Andhra Pradesh	 30-09-2042	Monthly	198.7794118	-67885729.67	157.0642647	Urban
+Andhra Pradesh	 31-10-2042	Monthly	199.2698039	-68071488.99	157.3735294	Urban
+Andhra Pradesh	 30-11-2042	Monthly	199.7601961	-68257248.31	157.6827941	Urban
+Andhra Pradesh	 31-12-2042	Monthly	200.2505882	-68443007.63	157.9920588	Urban
+Andhra Pradesh	 31-01-2043	Monthly	200.7409804	-68628766.95	158.3013235	Urban
+Andhra Pradesh	 29-02-2043	Monthly	201.2313725	-68814526.27	158.6105882	Urban
